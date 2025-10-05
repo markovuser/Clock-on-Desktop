@@ -23,4 +23,6 @@
   
 [![Download](https://raw.githubusercontent.com/markovuser/Clock-on-Desktop/main/Assets/download.png)](https://github.com/markovuser/Clock-on-Desktop/releases/latest)
 
+[![Download](https://raw.githubusercontent.com/markovuser/Clock-on-Desktop/main/assets/download.png)](https://github.com/markovuser/v/releases/latest)
+
 </div>
