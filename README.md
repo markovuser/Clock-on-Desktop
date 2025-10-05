@@ -15,8 +15,7 @@
 
 ### 📥 Quick links
 [Release page](https://github.com/markovuser/Clock-on-Desktop/releases/latest) • 
-[All releases](https://github.com/markovuser/Clock-on-Desktop/releases)• 
-[Download](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock.on.Desktop.setup.exe)
+[All releases](https://github.com/markovuser/Clock-on-Desktop/releases)
 
 </div>
 <div align="center">
