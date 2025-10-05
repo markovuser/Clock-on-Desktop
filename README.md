@@ -16,8 +16,8 @@ Simple desktop clock for Windows 10, 11..
 <div align="center">
 
 ### 📥 Quick links
-[Страница релиза](https://github.com/markovuser/Clock-on-Desktop/releases/latest) • 
-[Все релизы](https://github.com/markovuser/Clock-on-Desktop/releases)• 
+[Release page](https://github.com/markovuser/Clock-on-Desktop/releases/latest) • 
+[All releases](https://github.com/markovuser/Clock-on-Desktop/releases)• 
 [Download](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock.on.Desktop.setup.exe)
 
 </div>
