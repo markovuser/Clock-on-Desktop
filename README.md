@@ -21,6 +21,6 @@
 </div>
 <div align="center">
   
-[![Download](https://raw.githubusercontent.com/markovuser/Clock-on-Desktop/main/assets/download.png)](https://github.com/markovuser/Clock-on-Desktop/releases/latest)
+[![Download](https://raw.githubusercontent.com/markovuser/Clock-on-Desktop/main/assets/download.png)](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock.on.Desktop.setup.exe)
 
 </div>
