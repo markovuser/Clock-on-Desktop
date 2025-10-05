@@ -1,23 +1,15 @@
-
-
 <div align="center">
 # Clock on Desktop
 </div>
 <div align=center><b>Simple desktop clock for Windows 10, 11</b><br></div>
 
 <div align="center">
-
-[![Download](https://img.shields.io/github/v/release/markovuser/repository?style=for-the-badge&logo=github)](https://github.com/markovuser/Clock-on-Desktop/releases/latest)
-
-</div>
-
-<div align="center">
-
-### 📥 Quick links
-[Release page](https://github.com/markovuser/Clock-on-Desktop/releases/latest) • 
-[All releases](https://github.com/markovuser/Clock-on-Desktop/releases)
+<a href="https://github.com/markovuser/Clock-on-Desktop/releases/latest"><img src="https://img.shields.io/github/v/release/markovuser/Clock-on-Desktop?style=for-the-badge&labelColor=3d3d3d&color=179962" alt="Version"></a>
+<a href="https://github.com/markovuser/Clock-on-Desktop/releases"><img src="https://img.shields.io/github/downloads/markovuser/Clock-on-Desktop/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
 
 </div>
+<br><br>
+
 <div align="center">
   
 [<img src="https://raw.githubusercontent.com/markovuser/Clock-on-Desktop/main/assets/download.png" width="250" alt="Download">](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock.on.Desktop.setup.exe)
