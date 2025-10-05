@@ -1,2 +1,3 @@
+<div align=center><b>Simple desktop clock for Windows 10, 11</b><br></div>
 
-<center>[Download](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock.on.Desktop.setup.exe)
+[Download](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock.on.Desktop.setup.exe)
