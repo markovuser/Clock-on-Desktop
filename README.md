@@ -1,2 +1,2 @@
 
-[Download](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock.on.Desktop.setup.exe)
+<center>[Download](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock.on.Desktop.setup.exe)
