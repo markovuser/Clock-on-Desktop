@@ -12,6 +12,6 @@
 
 <div align="center">
   
-[<img src="https://raw.githubusercontent.com/markovuser/Clock-on-Desktop/main/assets/download.png" width="250" alt="Download">](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock-on-Desktop-setup.exe)
+[<img src="https://raw.githubusercontent.com/markovuser/Clock-on-Desktop/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock-on-Desktop-setup.exe)
 
 </div>
