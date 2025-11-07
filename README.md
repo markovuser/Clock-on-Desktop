@@ -1,6 +1,7 @@
 <div align="center">
 # Clock on Desktop
 </div>
+<hr>
 <div align=center><b>Simple desktop clock for Windows 10, 11</b><br><b>Простые настольные часы для Windows 10, 11</b><br></div><hr>
 
 <div align="center">
