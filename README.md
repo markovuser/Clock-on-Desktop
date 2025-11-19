@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[<img src="https://raw.githubusercontent.com/markovuser/Clock-Widget/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Clock-Widget/releases/latest/download/Clock-on-Desktop-setup.exe)
+[<img src="https://raw.githubusercontent.com/markovuser/Clock-Widget/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Clock-Widget/releases/latest/download/Clock-Widget-setup.exe)
 
 </div>
 <div align="center">
