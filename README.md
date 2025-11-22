@@ -5,7 +5,7 @@
 
 <div align="center">
 <a href="https://github.com/markovuser/Clock-Widget/releases/latest"><img src="https://img.shields.io/github/v/release/markovuser/Clock-Widget?style=for-the-badge&labelColor=3d3d3d&color=179962" alt="Version"></a>
-<a href="https://github.com/markovuser/Clock-Widget/releases/latest/download/Clock-Widget.exe"><img src="https://img.shields.io/github/downloads/markovuser/Clock-Widget/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
+<a href="https://github.com/markovuser/Clock-Widget/releases/latest/download/Clock-Widget-setup.exe"><img src="https://img.shields.io/github/downloads/markovuser/Clock-Widget/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
 
 </div>
 <br><br>
